@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="a3" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a4" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a5" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a2" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a1" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a6" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a7" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a8" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a9" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a10" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a11" min="-2" max="-2" attributes="0"/>
+                                  <Component id="a12" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="grade" alignment="0" max="32767" attributes="0"/>
+                              <Component id="avg" alignment="0" max="32767" attributes="0"/>
+                              <Component id="s7" alignment="0" max="32767" attributes="0"/>
+                              <Component id="s6" alignment="0" max="32767" attributes="0"/>
+                              <Component id="s5" alignment="0" max="32767" attributes="0"/>
+                              <Component id="s4" alignment="0" max="32767" attributes="0"/>
+                              <Component id="s3" alignment="0" max="32767" attributes="0"/>
+                              <Component id="s2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="s1" alignment="0" max="32767" attributes="0"/>
+                              <Component id="adm" alignment="0" max="32767" attributes="0"/>
+                              <Component id="name" alignment="0" max="32767" attributes="0"/>
+                              <Component id="form" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="98" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace pref="79" max="32767" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="316" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                      <Component id="print" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="name" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="a1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="a2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="form" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="adm" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="a3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="s1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="a4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="s2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="a5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="s3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="a6" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="s4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="a7" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="s5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="a8" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="s6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="a9" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="s7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="a10" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="a11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="avg" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="a12" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="grade" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="452" max="-2" attributes="0"/>
+              <EmptySpace pref="75" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="print" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="page">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="a11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Average"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Class Result Slip"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Form"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adm No."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ENG"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="MATH"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="KISW"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HISTORY"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CRE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="AGRI"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="a10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B/S"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="s7">
+    </Component>
+    <Component class="javax.swing.JTextField" name="avg">
+    </Component>
+    <Component class="javax.swing.JTextField" name="name">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="s1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="adm">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="admActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="s2">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="s2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="s4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="s3">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="s3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="s6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="s5">
+    </Component>
+    <Component class="javax.swing.JLabel" name="a12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="GRADE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="grade">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="gradeActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="form">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Form 1"/>
+            <StringItem index="1" value="Form 2"/>
+            <StringItem index="2" value="Form 3"/>
+            <StringItem index="3" value="Form 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Compute"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="print">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Print"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="printActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
